@@ -10,7 +10,7 @@ $ cd Al-Quran
 $ pip install -r requirements.txt
 $ python main.py
 ```
-> Full Tutorial [click here]()
+> Full Tutorial [click here](https://youtu.be/PEm0rsgm7ec)
 ## Support Me On
 <b>• [Facebook](https://m.facebook.com/dhasilva.junior.3)</b>
 <br>
